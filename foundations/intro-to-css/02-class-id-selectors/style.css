@@ -1,0 +1,18 @@
+.odd {
+  background-color: pink;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.size {
+  font-size: 24px;
+}
+
+#blue-colored {
+  color: blue;
+  font-size: 36px;
+}
+
+.greenback {
+  background-color: green;
+  font-weight: bold;
+}
